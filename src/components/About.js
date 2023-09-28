@@ -14,23 +14,19 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          This is Prashant Chaudhary from kota I am final year student CSE
+          student at mbm university I am skilled in react js and work on
+          programming languages like c and c++ apart from my course work i have
+          done my practical internships in Dmatics Technologies and Anktech
+          Private Limited in Front end Web Development in which i Work on
+          technologies like html ,css , tailwind-css javascript and react js
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I am Focused and Quick Learner and capable to adopt new technologies i
+          am tech freak want to explore new tech domain
         </p>
       </div>
     </div>
